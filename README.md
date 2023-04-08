@@ -4,5 +4,8 @@ OASIS INFOBYTE offers a variety of website design and development services. Got 
 ## Task1 - Landing Page
 A Landing Page of Fitness Club is created under the virtual internship program of Oasis Infobyte.
 
+## Task1 - Portfolio
+Created a personal portfolio with the basic skills in CSS & HTML.
+
 ## Task3 - Temperature Converter Website
 The user will input a temperature in either celsius or fahrenheit and Press a Convert button . The correct output will be Displayed.
